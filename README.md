@@ -1,8 +1,4 @@
-<h1 align="center">
-  Привет, я Евгений <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenijem&layout=compact)
 
 # Привет! Меня зовут Евгений 👋
 
