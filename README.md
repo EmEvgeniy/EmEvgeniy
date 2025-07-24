@@ -1,6 +1,7 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Привет!+Я+Фронтенд+разработчик;React%2FNext.js+разработка+%F0%9F%96%A5%EF%B8%8F;Создаю+удобные+и+продуманные+интерфейсы" alt="Typing SVG" />
-</h2>
+<h1 align="center">
+  Привет, я Евгений <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 
 # Привет! Меня зовут Евгений 👋
