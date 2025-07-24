@@ -1,16 +1,62 @@
-## Hi there 👋
+# Привет! Меня зовут Евгений 👋
 
-<!--
-**EmEvgeniy/EmEvgeniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — frontend-разработчик с 3.5 годами опыта в создании современных, производительных и масштабируемых веб-приложений.
 
-Here are some ideas to get you started:
+- 🧠 Специализируюсь на **React**, **Next.js**, **TypeScript**, **Tailwind CSS**
+- 💼 Реализовал десятки интерфейсов — от лендингов до сложных дашбордов и маркетплейсов
+- ⚙️ Умею работать с SSR, CSR, SSG, SEO, мультиязычностью, формами, авторизацией и хранилищами состояния (Zustand, Redux)
+- 🎨 Забочусь о UX/UI: интерфейсы должны быть не только красивыми, но и удобными
+- 🚀 Активно участвую в командной разработке, люблю чистый код и системный подход
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Frontend — это не только про кнопки, это про опыт пользователя, детали и инженерную эстетику.”
+
+## 🤓 Немного обо мне вне кода
+
+- 🎯 Люблю системность во всём — от архитектуры компонентов до личной продуктивности
+- 📚 Постоянно изучаю новые подходы в frontend'е, читаю про UX, архитектуру, дизайн-системы
+- 🧩 Фанат кастомных UI-решений, адаптивного дизайна
+- 🌍 Работаю удалённо, умею эффективно коммуницировать и работать в распределённых командах
+- ☕ Без утреннего кофе не начинаю ни одной сборки 😄
+- 🎧 Иногда код пишется быстрее под lo-fi или techno 🎶
+- 🧘 Практикую минимализм в жизни и в коде
+
+## 🛠️ Мой стек и инструменты
+
+### 👨‍💻 Языки и платформы
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+### ⚛️ Фреймворки и библиотеки
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF007C?logo=framer&logoColor=white&style=for-the-badge)
+
+### 🎨 Стилизация
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+
+### 🔧 Инструменты разработки
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge)
+
+### 🧪 Тестирование
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![React Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge)
+
+### 🌐 API и архитектура
+![REST API](https://img.shields.io/badge/-REST%20API-6E57E0?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white&style=for-the-badge)
+
+### 📦 CI/CD и DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+
+### 📁 Прочее
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
