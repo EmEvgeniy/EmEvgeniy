@@ -1,4 +1,5 @@
-![GitHub Skyline](https://github.com/EmEvgeniy/EmEvgeniy/blob/main/skyline.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A9FF&center=true&width=600&lines=Привет,+я+React+%2F+Next+разработчик;3.5+года+опыта;Пишу+чистый+и+продуманный+код)
+
 
 
 # Привет! Меня зовут Евгений 👋
