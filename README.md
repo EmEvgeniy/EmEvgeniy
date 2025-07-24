@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenijem&layout=compact)
+![GitHub Skyline](https://github.com/EmEvgeniy/EmEvgeniy/blob/main/skyline.gif)
+
 
 # Привет! Меня зовут Евгений 👋
 
