@@ -86,25 +86,14 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 
-
 ## 📫 Связаться со мной
 
-<p align="left">
-  <a href="https://t.me/evgenijem" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="36" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/evgenijem" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/998901234567" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="36" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="mailto:evgenijem@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" alt="Gmail" />
-  </a>
-</p>
+Если у вас есть интересный проект, предложение по сотрудничеству или просто хотите пообщаться — пишите мне!
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/твоя_ссылка)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/твоя_ссылка)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/твой_номер_без_плюса)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:твой@почта.com)
+
 
 
